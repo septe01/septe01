@@ -35,6 +35,26 @@
 
 
 <!-- ================================  -->
+<!-- <h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/septe-habudin/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/septestia/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HabudinSepte)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:septehabudin001@gmail.com)
+  
+</div> -->
+
+
+<!-- ======================================== -->
+
+<div align="center">
+<img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+
+ ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
+ 
+
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -43,7 +63,16 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HabudinSepte)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:septehabudin001@gmail.com)
   
+</div> 
+<br> <br>
+
+🌟 STAR THE REPOS IF YOU LIKE 🌟
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=septe01" alt="septe01" /></p>
+
 </div>
+
+
 
 <!-- ========================================= -->
 <!-- <h3 align="center">Languages and Tools:</h3>
