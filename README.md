@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Septe <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm SepteHabudin <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Full-Stack Javascript from Indonesia</h3>
 
 - 🔭 I’m currently working on my ** Web Aplication **
@@ -9,6 +9,32 @@
 
 - ⚡ What I like to do: **I like so much reading, movies..and coding of course**
 
+
+<!-- ================================ -->
+<h3 align="center">Also known as "SH" to other people. <br> <br>
+  <a href="https://github.com/septe01" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/septe01?label=Github%20followers&style=for-the-badge">
+  </a> <br> <br>
+  <a href="https://github.com/septe01" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=septe01&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  </a>
+  </h3> 
+      
+               
+     
+<div align="center">
+
+[![](https://raw.githubusercontent.com/septe01/septe01/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/septe01/septe01/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/septe01/septe01/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/septe01/septe01/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/septe01/septe01/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+</div>
+
+
+
+
+<!-- ================================  -->
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -19,6 +45,7 @@
   
 </div>
 
+<!-- ========================================= -->
 <!-- <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
@@ -43,14 +70,14 @@
 </p>
  -->
  
- 
+<!-- ======================================  -->
 <!-- <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=septe01&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=septe01&theme=react&layout=compact" />
 </p> -->
 
-
-
+<!-- ======================================= -->
+<!-- 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
@@ -77,7 +104,7 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
+</p>   -->
 
 
 
