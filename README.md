@@ -11,6 +11,7 @@
 
 
 <!-- ================================ -->
+<hr>
 <h3 align="center">Also known as "SH" to other people. <br> <br>
   <a href="https://github.com/septe01" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/septe01?label=Github%20followers&style=for-the-badge">
@@ -31,6 +32,7 @@
 
 </div>
 
+<hr>
 
 
 
@@ -64,7 +66,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:septehabudin001@gmail.com)
   
 </div> 
-<br> <br>
+<br>
 
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
